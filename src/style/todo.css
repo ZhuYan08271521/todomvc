@@ -11,3 +11,12 @@ li {
 button {
     margin-left: 5px;
 }
+.closeLoading {
+    display: none;
+}
+.showEdit {
+    display: block;
+}
+.closeEdit {
+    display: none;
+}
